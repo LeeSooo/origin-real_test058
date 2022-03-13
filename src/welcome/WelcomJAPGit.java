@@ -10,11 +10,7 @@ public class WelcomJAPGit {
 		System.out.println("학번 : 201945058, 학년 : 2학년, 반 : B, 이름 : 이수");
 		System.out.println("test");
 		
-
-
-//		여기는 my branch 입니다.
-
-		
+		// 여기는 my branch입니다.
 	}
 
 }
